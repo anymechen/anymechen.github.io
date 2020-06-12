@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anymechen.github.io</id>
-    <title>ANY_ME&apos;s Blog</title>
-    <updated>2020-06-12T00:01:17.207Z</updated>
+    <title>shishuoCh&apos;s Blog</title>
+    <updated>2020-06-12T02:57:52.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anymechen.github.io"/>
     <link rel="self" href="https://anymechen.github.io/atom.xml"/>
     <subtitle>瞎折腾出来的博客~</subtitle>
     <logo>https://anymechen.github.io/images/avatar.png</logo>
     <icon>https://anymechen.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, ANY_ME&apos;s Blog</rights>
+    <rights>All rights reserved 2020, shishuoCh&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[批量"左右"合并txt文件]]></title>
         <id>https://anymechen.github.io/R_e_e13CK/</id>
