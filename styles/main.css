@@ -2141,7 +2141,7 @@ pre > span.copy-code:hover {
       border-bottom-color: #555;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #99e9f2f2;
+      background: #99e9f2ea;
     }h1, h2, h3, h4, h5, h6 {
       color: #555;
     }
@@ -2191,11 +2191,11 @@ pre > span.copy-code:hover {
         color: #222;
         border-bottom: 1px solid #222 !important;
       }.nav-item-active {
-      background: #f9f9f9f2;
+      background: #f9f9f9ea;
     }
 
     .nav-item:hover {
-      background: #f9f9f9f2;
+      background: #f9f9f9ea;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2231,7 +2231,7 @@ pre > span.copy-code:hover {
       color: #f76707;
       border-bottom-color: #f76707;
     }.bg-color {
-      background-color: #fffffff2;
+      background-color: #ffffffea;
     }
     .site-meta {
       background: #000 !important;
@@ -2240,7 +2240,7 @@ pre > span.copy-code:hover {
       background: #000;
     }
     .brand {
-      background: #000000f2;
+      background: #000000ea;
     }
     
       .brand {
@@ -2250,7 +2250,7 @@ pre > span.copy-code:hover {
       color: #FFF !important;
     }
     .mist .site-title i {
-      background: #FFFFFFf2;
+      background: #FFFFFFea;
     }/* 滚动条 */
 ::-webkit-scrollbar {
   width: 8px;
