@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anymechen.github.io</id>
     <title>shishuoCh&apos;s Blog</title>
-    <updated>2020-06-21T02:57:53.952Z</updated>
+    <updated>2020-06-23T14:57:41.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anymechen.github.io"/>
     <link rel="self" href="https://anymechen.github.io/atom.xml"/>
@@ -67,7 +67,7 @@ sed -i 's/\r//g' *.txt
 <li><a href="https://ubuntu.com/wsl">How to Install Ubuntu on Windows Subsystem for Linux</a></li>
 </ul>
 </li>
-<li>MALAB文本操作
+<li>MATLAB文本操作
 <ul>
 <li>dlmwrite函数，该函数可以在写入矩阵时设置行尾符（但是写入的不能是文本或者说字符串数据）</li>
 <li>readtable、writetable</li>

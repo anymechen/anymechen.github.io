@@ -2123,12 +2123,16 @@ pre > span.copy-code:hover {
         margin: 0 auto;
       }
     @font-face {
-      font-family: 'georgia';
-      src: url('/media/fonts/georgia.ttf');
+      font-family: 'sleek';
+      src: url('/media/fonts/sleek.ttf');
     }
     * {
-        font-family: 'georgia';
-    }body {
+        font-family: 'sleek';
+    }
+    .post-body {
+      font-size: 16px !important
+    }
+    body {
       color: #555;
     }
     .next-md-body {
