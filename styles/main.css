@@ -2124,7 +2124,7 @@ pre > span.copy-code:hover {
       }
     @font-face {
       font-family: 'sleek';
-      src: url('https://cdn.jsdelivr.net/gh/anymechen/anymechen.github.io@master/media/fonts/sleek.ttf');
+      src: url('/media/fonts/sleek.ttf');
     }
     * {
         font-family: 'sleek';
@@ -2292,15 +2292,15 @@ background-color: #fff5f5 !important;
 border-radius: 4px !important;
 color: #58aca3 !important;
 }body {
-      cursor: url('https://cdn.jsdelivr.net/gh/anymechen/anymechen.github.io@master/media/curs/default_normal.cur'), default;
+      cursor: url('/media/curs/default_normal.cur'), default;
     }a {
-      cursor: url('https://cdn.jsdelivr.net/gh/anymechen/anymechen.github.io@master/media/curs/default_link.cur'), pointer !important;
+      cursor: url('/media/curs/default_link.cur'), pointer !important;
     }input, textarea, code {
-      cursor: url('https://cdn.jsdelivr.net/gh/anymechen/anymechen.github.io@master/media/curs/default_texto.cur'), text !important;
+      cursor: url('/media/curs/default_texto.cur'), text !important;
     }code > span.copy-code {
-      cursor: url('https://cdn.jsdelivr.net/gh/anymechen/anymechen.github.io@master/media/curs/default_texto.cur'), text !important;
+      cursor: url('/media/curs/default_texto.cur'), text !important;
     }.post img {
-      cursor: url('https://cdn.jsdelivr.net/gh/anymechen/anymechen.github.io@master/media/curs/default_zoomout.cur'), zoom-in !important;
+      cursor: url('/media/curs/default_zoomout.cur'), zoom-in !important;
     }.post img {
-      cursor: url('https://cdn.jsdelivr.net/gh/anymechen/anymechen.github.io@master/media/curs/default_vertical.cur'), zoom-out !important;
+      cursor: url('/media/curs/default_vertical.cur'), zoom-out !important;
     }
