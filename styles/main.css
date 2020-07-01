@@ -2123,11 +2123,11 @@ pre > span.copy-code:hover {
         margin: 0 auto;
       }
     @font-face {
-      font-family: 'sleek';
-      src: url('/media/fonts/sleek.ttf');
+      font-family: 'sleek_en';
+      src: url('/media/fonts/sleek_en.ttf');
     }
     * {
-        font-family: 'sleek';
+        font-family: 'sleek_en';
     }
     .post-body {
       font-size: 16px !important
